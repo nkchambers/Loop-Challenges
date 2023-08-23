@@ -1,4 +1,4 @@
-var product = 1;
+var product = 2;
 
 for (var i=1; i<13; i++) {
     product *= i;
